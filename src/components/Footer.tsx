@@ -53,8 +53,9 @@ export default function Footer() {
               <Image
                 src="/logo.png"
                 alt="Bright Site Websites"
-                width={36}
-                height={36}
+                width={72}
+                height={72}
+                className="w-[72px] h-[72px]"
               />
               <span className="text-lg font-bold bg-gradient-to-r from-electric-pink via-sunset-orange to-cyber-yellow bg-clip-text text-transparent">
                 Bright Site Websites

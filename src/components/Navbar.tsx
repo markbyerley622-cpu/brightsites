@@ -40,9 +40,9 @@ export default function Navbar() {
             <Image
               src="/logo.png"
               alt="Bright Site Websites"
-              width={40}
-              height={40}
-              className="w-8 h-8 sm:w-10 sm:h-10"
+              width={80}
+              height={80}
+              className="w-16 h-16 sm:w-20 sm:h-20"
             />
             <span className="text-lg sm:text-xl font-bold bg-gradient-to-r from-electric-pink via-sunset-orange to-cyber-yellow bg-clip-text text-transparent">
               Bright Site
