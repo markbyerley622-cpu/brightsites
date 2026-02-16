@@ -51,9 +51,9 @@ const platforms = [
     icon: Play,
     color: "#FF5722",
     description:
-      "Short, viral-style content showing AI-powered builds in real time.",
+      "Short, viral-style content showing website builds in real time.",
     tips: [
-      '"AI built this website in 1 day" videos',
+      '"We built this website in 1 day" videos',
       "Fast-paced screen recordings",
       "Behind-the-scenes dev content",
       "3 posts per week for viral reach",

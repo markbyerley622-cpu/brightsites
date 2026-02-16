@@ -7,11 +7,11 @@ import { ChevronDown } from "lucide-react";
 const faqs = [
   {
     q: "How long does it take to build my website?",
-    a: "Most websites are completed in 3–7 business days depending on the package. Our AI-powered workflow means we move fast without cutting corners. Premium builds with e-commerce may take up to 2 weeks.",
+    a: "Most websites are completed in 3–7 business days depending on the package. Our streamlined workflow means we move fast without cutting corners. Premium builds with e-commerce may take up to 2 weeks.",
   },
   {
-    q: "What do you mean by AI-powered?",
-    a: "We use cutting-edge AI tools to speed up design, content generation, and development. This means you get a premium-quality website at a fraction of traditional agency costs — with faster turnaround too.",
+    q: "How do you keep costs so low?",
+    a: "We use modern tools and streamlined processes to speed up design, content creation, and development. This means you get a premium-quality website at a fraction of traditional agency costs — with faster turnaround too.",
   },
   {
     q: "Do I own my website after it's built?",

@@ -26,7 +26,7 @@ export default function Hero() {
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm mb-8">
             <span className="w-2 h-2 rounded-full bg-leaf-green animate-pulse" />
             <span className="text-sm text-white/70">
-              AI-Powered Web Development
+              Premium Web Development
             </span>
           </div>
         </motion.div>
@@ -50,7 +50,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
           className="mt-6 sm:mt-8 text-lg sm:text-xl md:text-2xl text-white/60 max-w-2xl mx-auto leading-relaxed"
         >
-          Modern, fast, AI-powered websites built for Aussie small businesses.
+          Modern, fast, high-quality websites built for Aussie small businesses.
           Launch your online presence in days, not months.
         </motion.p>
 

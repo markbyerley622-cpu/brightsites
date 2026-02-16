@@ -62,7 +62,7 @@ export default function Footer() {
               </span>
             </a>
             <p className="text-sm text-white/40 max-w-sm leading-relaxed mb-6">
-              Modern, AI-powered websites built for Australian small businesses.
+              Modern, high-quality websites built for Australian small businesses.
               Fast turnaround, premium quality, honest pricing.
             </p>
             <div className="flex items-center gap-3">

@@ -10,7 +10,7 @@ const packages = [
     color: "#4CAF50",
     features: [
       "Simple 5-page website (Home, About, Services, Contact, Blog)",
-      "Clean AI-built design",
+      "Clean, modern design",
       "Mobile responsive layout",
       "1 round of revisions",
       "Hosting setup guide",
